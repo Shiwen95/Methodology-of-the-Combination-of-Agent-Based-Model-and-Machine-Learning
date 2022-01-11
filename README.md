@@ -6,3 +6,7 @@ Agent-based simulation can model real-world scenarios by designing behaviours of
 <img src='https://github.com/Shiwen95/Methodology-of-the-Combination-of-Agent-Based-Model-and-Machine-Learning/blob/main/Schematic%20Figure%20of%20ABM.png'>
 
 Agent-based modelling can be implemented by mesa package in Python: https://github.com/projectmesa/mesa/wiki.
+
+The design of the agent-based model is mainly about the infection process in which the virus spreads by infecting agents’ neighbours. The schematic figure below shows how agents in the constructed epidemiological model have been designed. Each agent refers to a person as a unit of infection. The agents have 7 attributes. The agent’s methods include trying to infect neighbours, isolating infected agents, trying to cure infected agents that are detected and trying to vaccinate healthy agents.
+
+<img src="">
