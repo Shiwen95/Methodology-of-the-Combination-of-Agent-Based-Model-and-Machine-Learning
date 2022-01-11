@@ -3,4 +3,4 @@ The global pandemic crisis has prompted the writing of this study. In the United
 
 Agent-based simulation can model real-world scenarios by designing behaviours of interacting agents in the dynamic network. A typical structure of the agent-based model is represented in figure below. In an agent-based model, an agent is associated with its attributes and its methods. Agent attributes can be static or dynamic, such as an agent’s state. Agent methods can be behaviours under certain conditions or fixed patterns of behaviours.
 
-<img src=''>
+<img src='https://github.com/Shiwen95/Methodology-of-the-Combination-of-Agent-Based-Model-and-Machine-Learning/blob/main/Schematic%20Figure%20of%20ABM.png'>
