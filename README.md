@@ -9,4 +9,6 @@ Agent-based modelling can be implemented by mesa package in Python: https://gith
 
 The design of the agent-based model is mainly about the infection process in which the virus spreads by infecting agents’ neighbours. The schematic figure below shows how agents in the constructed epidemiological model have been designed. Each agent refers to a person as a unit of infection. The agents have 7 attributes. The agent’s methods include trying to infect neighbours, isolating infected agents, trying to cure infected agents that are detected and trying to vaccinate healthy agents.
 
-<img src="">
+<img src="https://github.com/Shiwen95/Methodology-of-the-Combination-of-Agent-Based-Model-and-Machine-Learning/blob/main/ABM.png">
+
+
